@@ -1,3 +1,4 @@
+# %%
 import context
 from pathlib import Path
 from satpy import Scene
@@ -9,12 +10,12 @@ scn.load(['image'])
 print(help(scn))
 scn.save_datasets(writer='simple_image',filename='b6.png',datasets=['image'])
 
+# %%
 
+# %%
 
+# %%
 
+# %%
 
-
-
-
-
-
+# %%
