@@ -1,0 +1,11 @@
+du -h -d 1    #lists how much space a directory tree is using
+rm -rf the_files   #removes all files/folders in the_files
+
+
+# for March 17 week
+* get clw cli hur cl ta  for quite small set gridpoints 
+* plot against pressure  by reconstructing sigma
+   p = ap + b*ps  where ap, b, ps are horizontal average values at each sigma level
+* find cloudtop  -- can we find distinct boundary layer  -- clw?  
+* how does cloud top with cloud faction, and cloud top conditons
+* cloud top entrainment instablility
